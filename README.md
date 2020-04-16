@@ -1,0 +1,1 @@
+# svelte-webpack-ie11
