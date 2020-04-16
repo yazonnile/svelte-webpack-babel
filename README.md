@@ -1,4 +1,4 @@
-# svelte-webpack-ie11
+# svelte-webpack-babel
 svelte + webpack + babel starter
 
 # ` babel.config.json`
