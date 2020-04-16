@@ -1,4 +1,5 @@
 # svelte-webpack-ie11
+svelte + webpack + babel starter
 
 # ` babel.config.json`
 ````json
