@@ -15,7 +15,7 @@
     "babel-loader": "^8.1.0",
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.1.1",
-    "svelte": "^3.20.1",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
